@@ -1,7 +1,0 @@
-{
-  "name": "Copy of StoryBoard AI Artist",
-  "description": "A professional tool for generating cinematic 3x2 grid storyboards in black and white line art style based on scene scripts.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
